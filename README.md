@@ -27,7 +27,3 @@ To identify persistent inflationary regimes using a Hidden Markov Model (HMM) an
 - Regime classification over time  
 - Sector performance by regime  
 - Backtested portfolio comparison
-
-## 📁 Structure
-- `notebooks/` – Jupyter notebooks with code and visualizations  
-- `___data/` – Raw and processed macro/market data  
